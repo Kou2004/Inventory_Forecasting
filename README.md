@@ -21,5 +21,5 @@ The objective of the App to do the forecasting of the number of the booking of t
 Get a average MAE of 5.26 of all the smaller datasets. 
 # improvements :
 Feeding more data on the model, training the model on the regular interval basis, Some more testing with hyper-parameters of the prophet model.
-As 
+
 
