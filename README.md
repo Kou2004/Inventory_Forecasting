@@ -1,5 +1,5 @@
 # Inventory_Forecasting
-This project is a group project of team Terox , under the TinkerQuest24 hackathon, where we have made a Inventory Management App with demand forecasting. Here the forecasting part is done by me.
+This project is a group project of team Terox , under the TinkerQuest24 hackathon, where we have made a Inventory Management App with demand forecasting. Here the forecasting part is done by me. We acheieved 2nd position in this pan India hackathon.
 # Approach
 The objective of the App to do the forecasting of the number of the booking of the patients with of different tests of different locations. For this , what I have done that:
 1. Split the dataset first on the basis of the prefix of the Test_Code (Because many category of tests are occuring under this test, and adequate amount of data is available to make the forecasting of the data). After that I split the dataset further on the basis of the test_names.
